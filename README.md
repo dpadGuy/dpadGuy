@@ -1,5 +1,5 @@
 <h1 align="center">Hi I'm tire_d !</h1>
-<h3 align="center">Im a self taught developer that loves tinkering around software and hardware, i generally love coding and talking with people</h3>
+<h3 align="center">I'm a self taught developer that loves tinkering around software and hardware, i generally love coding and talking with people</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
