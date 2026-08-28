@@ -8,3 +8,15 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> </p>
+
+<h3 align="left">You can support me financially by going with the following options:</h3>
+
+Ko-fi: https://ko-fi.com/dpadguy
+
+LTC (Litecoin)
+
+ltc1qf46rf6emw7chw4766v6wm7j5laf8mygp6rxw9e
+
+SOL (Solana)
+
+9N3cxG7LYbsrxEKvQsivsWyJe8gdwyz1Bic3RuwZ3RvK
